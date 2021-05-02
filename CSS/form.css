@@ -1,0 +1,43 @@
+.content {
+    margin: auto;
+}
+
+.login{
+    display: block;
+    padding: 20px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+    width: 500px;
+    background: #fafafa;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.2)
+}
+
+#register {
+    margin: 25px auto;
+    position: relative;
+    top: auto;
+    left: auto;
+    transform: none;
+    overflow: auto;
+}
+
+.login>fieldset {
+    padding: 8px 3px;
+}
+
+textarea {
+    resize: none;
+}
+
+input[type=file] {
+    overflow: hidden;
+}
+
+.loginLink {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
