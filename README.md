@@ -1,6 +1,7 @@
 # eCommerce-PHP
 
-  Ce site web a été réalisé dans le cadre d'un projet qui s'est déroulé durant le premier semestre de ma deuxième années de DUT informatique. L'objectif de ce projet était donc de créer un site de vente fictif en ligne, d'un produit choisi. Ce projet a été réalisé en groupe de 4 personnes en utilisant PHP, avec une architecture de conception style MVC, et une base de données MySQL. \n\nIl contient un système de gestion d'utilisateur (inscription, connection, un profile), une système de panier, de pages de détails pour les produits et les auteurs, une système d'administrateurs du site, un système de recherche de livre mais aussi une système de mail pour la réinitialisation de mot de passe ou pour l'inscription.
+  Ce site web a été réalisé dans le cadre d'un projet lors de mon IUT informatique. 
+  L'objectif de ce projet était de créer un site de vente fictif en ligne, d'un produit choisi. Ce projet a été réalisé en groupe de 4 personnes en utilisant PHP, avec une architecture de conception MVC, et une base de données MySQL. Il contient un système de gestion d'utilisateurs (inscription, connection, un profile), un système de panier, de détails pour les produits et les auteurs, un système d'administrateurs, un système de recherche de livres mais aussi un système de mail pour la réinitialisation de mot de passe.
   
 https://alexis-mateo.fr/Ecommerce/
 
